@@ -26,6 +26,9 @@ This project automates the retrieval, cleaning, and visualization of water level
 4. **Visualization**:
    - Line plots displaying actual and moving average water levels.
    - Separate visualizations for each selected river.
+  ### Water level trends for selected rivers
+   ![water_high_level_trends_for_selected_rivers](https://github.com/user-attachments/assets/c32af35a-a341-4f07-9545-e4038da3ddbb)
+
 
 ## How to Run the Project
 ### Prerequisites:
