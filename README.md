@@ -28,6 +28,9 @@ This project automates the retrieval, cleaning, and visualization of water level
    - Separate visualizations for each selected river.
   ### Water level trends for selected rivers
    ![water_high_level_trends_for_selected_rivers](https://github.com/user-attachments/assets/c32af35a-a341-4f07-9545-e4038da3ddbb)
+  ### Water level trends for selected high discharge rivers
+   ![water_level_trends_selected_high_discharge_rivers](https://github.com/user-attachments/assets/6cb0c9cb-b25e-4ee9-853c-16734c731003)
+
 
 
 ## How to Run the Project
