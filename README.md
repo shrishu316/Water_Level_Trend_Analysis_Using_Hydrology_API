@@ -39,9 +39,3 @@ This project automates the retrieval, cleaning, and visualization of water level
   ### Water level trends comparison selected low discharge rivers
    ![water_level_trends_selected_low_discharge_rivers](https://github.com/user-attachments/assets/bd5033f4-60da-4e48-8db4-72f64b44318d)
    
-## How to Run the Project
-### Prerequisites:
-- Python 3.x
-- Install the required Python packages by running:
-  ```bash
-  pip install -r requirements.txt
