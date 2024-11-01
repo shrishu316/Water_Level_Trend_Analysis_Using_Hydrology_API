@@ -11,7 +11,6 @@ This project automates the retrieval, cleaning, and visualization of water level
 - **Configurable Stations**: Users can specify the rivers they want to monitor.
 
 ## Data Pipeline Structure
- ![hydro_data_pipeline drawio](https://github.com/user-attachments/assets/76ce8b73-e2c8-4131-99d5-92c37811a9c3)
 1. **Data Ingestion**: 
    - Fetches water level data in CSV format from the external API.
    - Appends new data to a local CSV file.
